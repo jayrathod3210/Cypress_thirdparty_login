@@ -1,3 +1,7 @@
+// Note: Add below config on cypress.config.js file
+//     chromeWebSecurity: false,
+//     experimentalModifyObstructiveThirdPartyCode: true, // Third party login
+//     experimentalSessionAndOrigin: true, // // Third party login
 
 beforeEach(() => {
   
